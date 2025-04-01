@@ -45,3 +45,6 @@ tools/trainerproc/trainerproc
 *.smol
 *.fastSmol
 *.smolTM
+.cache
+compile_commands.json
+.clangd
