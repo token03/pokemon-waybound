@@ -47,4 +47,3 @@ tools/trainerproc/trainerproc
 *.smolTM
 .cache
 compile_commands.json
-.clangd
